@@ -1,11 +1,14 @@
-# Your GitHub Learning Lab Repository for Community Starter Kit
+Readme Licence
+copyright(c)[year] [full name]
+This is a Bot designed by us, Basically we Provide Business solutions to all.
+This chat bot can be used to welcome new user,to get their details, and prvide only the Required information, so thet the user will get to know about the Organisation.
+Permission is herby granted Free of charge, so that any person can get this software and use it accordingly, if needed he can make any desired changes according to his need.
+The user can access this Bot and install it in his or her organisation, this would improve thier standard and reduce the Reception work.
+The user is free to use the and all right is provided for copying, modifying, merge]ing, publishing, distributing, sublicensing, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions.
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added a pull request for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
+The user ues this Bot on his own risk.
+No gaurentee or waranty is provided for the software.
+The maintainence should be done in its own.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+We are not responsible for any Infringement.
+Thanks for yor time.
